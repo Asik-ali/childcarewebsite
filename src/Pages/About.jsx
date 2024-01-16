@@ -11,7 +11,7 @@ function About() {
       <div className="w-full py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20 relative">
         <img className='lg:w-[80px] w-[50px] left-[82%] top-[80px] lg:left-[90%] lg:top-[120px] absolute' src={jet} alt="" />
         <h1 className="text-4xl font-bold text-black sm:text-6xl xl:text-8xl">
-        Not Just Daycare
+        Not Just Daycar
               </h1>
  
         <p className="text-base md:text-lg text-black my-4 md:my-6 font-[Rokkitt] ps-2">
